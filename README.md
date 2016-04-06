@@ -16,3 +16,8 @@ Hay dos maneras de empezar a usar esta plantilla:
 
 * Si deseas usar GitHub como repositorio para mantener varias versiones del documento, puedes crear un fork de este repositorio para poder subir tus modificaciones a GitHub. 
   En este caso, se recomienda cambiar el nombre de tu repositorio a <i>PFC-TuNombreYApellidos</i>.
+
+Si necesitas descargar el editor libreoffice, puedes hacerlo desde https://es.libreoffice.org/
+
+
+Mucha suerte con tu proyecto.

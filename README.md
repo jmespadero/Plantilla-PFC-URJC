@@ -4,7 +4,7 @@ Carrera/Máster (PFC/PFM) en la URJC.
 
 Este documento es una plantilla para la realización de la memoria de los
 proyectos fin de carrera siguiendo el formato requerido por la Escuela 
-Superior de Ingeniería Informática de la Universidad Rey Juan Carlos, 
+Técnica Superior de Ingeniería Informática de la Universidad Rey Juan Carlos, 
 según su normativa publicada en http://www.etsii.urjc.es/estudios/pfc.html. 
 
 Antes de continuar, deberías descargar dicha normativa y asegurar que el
